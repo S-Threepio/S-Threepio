@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-I am a software engineer with a passion for solving complex problems and creating efficient software solutions. My journey in the world of technology has equipped me with a diverse set of skills and experiences that allow me to tackle a wide range of challenges.
 
 <div>
 <div id="badges">
@@ -16,13 +15,13 @@ I am a software engineer with a passion for solving complex problems and creatin
   </a>
 </div>
 </div>
-<br></br>
-
-I am currently pursuing a **Master's degree in Computer Science** at **Arizona State University**. I have a solid background in **Web and Android development**, along with expertise in **AWS Cloud services.**
-I'm currently seeking **full-time software engineer opportunities.** 
-
-Let's connect and explore the possibilities together! 🤝
-
-feel free to reach out to me at kavitkarswanand5@gmail.com.
-  <h4>More About me : <a href="https://skavitkar.com">skavitkar.com</a></h4>
+<br>
+I am a software engineer with a passion for solving complex problems and creating efficient software solutions.<br> 
+My journey in the world of technology has equipped me with a diverse set of skills and experiences that allow me to tackle a wide range of challenges.
+<br><br>
+🔹 <b>I'm currently seeking full-time software engineer opportunities.</b>  🔹
+<br>
+<br>
+<p>Let's connect and explore the possibilities together! 🤝
+<br>More About me : <a href="https://skavitkar.com">skavitkar.com</a></p>
 
