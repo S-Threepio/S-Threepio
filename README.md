@@ -16,7 +16,7 @@
 </div>
 </div>
 <br>
-I am a software engineer with a passion for solving complex problems and creating efficient software solutions.<br> 
+I am a software engineer working at TikTok solving complex problems and creating efficient software solutions.<br> 
 My journey in the world of technology has equipped me with a diverse set of skills and experiences that allow me to tackle a wide range of challenges.
 <br><br>
 🔹 <b>I'm currently seeking full-time software engineer opportunities.</b>  🔹
