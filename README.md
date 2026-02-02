@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Swanand+Kavitkar...;Nice+to+meet+you!&center=true&size=24">
   </a>
 </h1>
-
-
 <div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/s-threepio/">
@@ -16,12 +14,7 @@
 </div>
 </div>
 <br>
-I am a software engineer working at TikTok solving complex problems and creating efficient software solutions.<br> 
-My journey in the world of technology has equipped me with a diverse set of skills and experiences that allow me to tackle a wide range of challenges.
-<br><br>
-🔹 <b>I'm currently seeking full-time software engineer opportunities.</b>  🔹
-<br>
-<br>
-<p>Let's connect and explore the possibilities together! 🤝
+I am a Backend Engineer working at Fetch,
+<br>building the scalable systems that powers America's best rewards app.<br> 
 <br>More About me : <a href="https://skavitkar.com">skavitkar.com</a></p>
 
