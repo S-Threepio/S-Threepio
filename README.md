@@ -14,6 +14,7 @@ for fun    → systems programming, AI tinkering
 
 ### Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-threepio/)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://s-threepio.medium.com/)
-[![Website](https://img.shields.io/badge/skavitkar.com-gray?style=flat-square&logo=safari&logoColor=white)](https://skavitkar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-threepio/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://s-threepio.medium.com/)
+[![Website](https://img.shields.io/badge/skavitkar.com-%23FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://skavitkar.com)
+  
