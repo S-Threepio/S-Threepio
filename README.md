@@ -1,20 +1,19 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Swanand+Kavitkar...;Nice+to+meet+you!&center=true&size=24">
-  </a>
-</h1>
-<div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/s-threepio/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://s-threepio.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-</div>
-</div>
-<br>
-I am a Backend Engineer working at Fetch,
-<br>building the scalable systems that powers America's best rewards app.<br> 
-<br>More About me : <a href="https://skavitkar.com">skavitkar.com</a></p>
+# Hey, I'm Swanand
 
+I'm a backend engineer at **Fetch**. I've previously built mobile apps at **TikTok** and **HSBC**, and now I spend most of my time in Go figuring out how things work under the hood.
+
+I write about things I learn along the way on [Medium](https://s-threepio.medium.com/) and occasionally build tools nobody asked for :)
+
+### What I work with
+
+```
+day job    → Go, distributed systems, backend infra
+past life  → Mobile development in Kotlin, Swift and Objective-C
+for fun    → systems programming, AI tinkering
+```
+
+### Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-threepio/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white)](https://s-threepio.medium.com/)
+[![Website](https://img.shields.io/badge/skavitkar.com-gray?style=flat-square&logo=safari&logoColor=white)](https://skavitkar.com)
