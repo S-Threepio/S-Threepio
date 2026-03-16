@@ -1,14 +1,15 @@
 # Hey, I'm Swanand
 
 I'm a backend engineer at **Fetch**. I've previously built mobile apps at **TikTok** and **HSBC**, and now I spend most of my time in Go figuring out how things work under the hood.
-
 I write about things I learn along the way on [Medium](https://s-threepio.medium.com/) and occasionally build tools nobody asked for :)
 
-### What I work with
+**What I work with:**
 
-- Day Job    →  Go, Distributed systems
-- Past Life  →  Mobile development in Kotlin, Swift and Objective-C
-- Fun    →      Systems programming, AI tinkering
+* Day Job : Go, Distributed systems
+* Previously : Mobile development in Kotlin, Swift and Objective-C
+* Fun : Systems programming, AI tinkering
+
+<img src="https://skillicons.dev/icons?i=go,python,cpp,rust,java,postgresql,mongodb,redis,elasticsearch,kafka,rabbitmq,git,nginx,docker,kubernetes,linux,grafana,prometheus,jenkins,terraform,aws,gcp" alt="Languages and Frameworks"> <be> 
 
 ### Where to find me
 
