@@ -6,11 +6,9 @@ I write about things I learn along the way on [Medium](https://s-threepio.medium
 
 ### What I work with
 
-```
-day job    → Go, distributed systems, backend infra
-past life  → Mobile development in Kotlin, Swift and Objective-C
-for fun    → systems programming, AI tinkering
-```
+- Day Job    →  Go, Distributed systems
+- Past Life  →  Mobile development in Kotlin, Swift and Objective-C
+- Fun    →      Systems programming, AI tinkering
 
 ### Where to find me
 
